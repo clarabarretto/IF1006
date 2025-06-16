@@ -48,8 +48,8 @@ O sistema gera:
   https://scon.stj.jus.br/SCON/jurisprudencia/doc.jsp
 
 - 📄 TRFs — Exemplo TRF1  
-  https://portal.trf1.jus.br/portaltrf1/jurisprudencia/
-
+[  https://portal.trf1.jus.br/portaltrf1/jurisprudencia/
+](https://www2.cjf.jus.br/jurisprudencia/trf1/)
 - 📄 STF — Repercussão Geral  
   https://portal.stf.jus.br/jurisprudencia/
 
